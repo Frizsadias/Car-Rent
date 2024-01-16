@@ -1,0 +1,4 @@
+Tools yang saya gunakan dalam pembuatan aplikasi penyewaan mobil yaitu:
+Bahasa Pemrograman : PHP
+Framework : Laravel
+Database : MySql
